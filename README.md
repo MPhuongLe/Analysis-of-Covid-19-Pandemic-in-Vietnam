@@ -15,7 +15,7 @@ Specifically, the dataset includes daily records of confirmed cases, deaths, and
 
 Before analysis, the dataset was thoroughly cleaned to ensure consistency and reliability. This included standardizing time formats, unifying inconsistent country names, removing irrelevant or incomplete data (e.g., subnational regions and outdated recovery figures), and aggregating data at the national level. Countries with insufficient data (fewer than 100 records) were also excluded.
 
-## Dashboard Design
+## Dashboard 
 
 The interactive Tableau dashboard is structured into three main sections: a header area for summary information and controls, and tưo lower sections featuring data visualizations.
 
@@ -33,12 +33,6 @@ The interactive Tableau dashboard is structured into three main sections: a head
 
 These elements provide both high-level insights and detailed exploration capabilities through interactive filtering and time-based views.
 
-## Analysis
-
-The project includes an in-depth analysis of the pandemic’s overall trends and changes over time across different regions of the world. It explores patterns in case surges, recoveries, and fatalities, and provides potential explanations for observed differences — such as the timing of outbreaks, government interventions, and healthcare system responses.
-
-All detailed analyses and insights are documented in the accompanying report (in Vietnamese), which can be found in this repository.
-
 ## Design Considerations
 
 The dashboard was designed with a strong emphasis on usability, accessibility, and clarity, particularly for non-expert users. Key design principles include:
@@ -49,6 +43,12 @@ The dashboard was designed with a strong emphasis on usability, accessibility, a
 - **Interactivity**: Prioritized interactive elements such as clickable summary boxes and filters to allow users to explore data dynamically.
 
 Further details on design choices can be found in the report, specifically in the section titled *“Đánh giá Dashboard”* (Dashboard Evaluation).
+
+## Analysis
+
+The project includes an in-depth analysis of the pandemic’s overall trends and changes over time across different regions of the world. It explores patterns in case surges, recoveries, and fatalities, and provides potential explanations for observed differences — such as the timing of outbreaks, government interventions, and healthcare system responses.
+
+All detailed analyses and insights are documented in the accompanying report (in Vietnamese), which can be found in this repository.
 
 ## User Feedback
 
