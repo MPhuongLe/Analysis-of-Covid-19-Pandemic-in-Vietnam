@@ -1,5 +1,6 @@
 # Analysis of Covid-19 Pandemic in Vietnam
-Analyzed and visualized Covid-19 data in Vietnam using Python and Tableau, culminating in an interactive dashboard and a class presentation to effectively communicate key trends.
+
+The project explores the progression and impact of the Covid-19 pandemic in Vietnam through data analysis and interactive visualization. Using global datasets, we cleaned, processed, and visualized the data in Tableau to provide clear insights into trends over time and across regions. The result is an interactive dashboard designed for the general public, supported by user feedback and thoughtful design considerations.
 
 ## Project Goal and Motivation
 
