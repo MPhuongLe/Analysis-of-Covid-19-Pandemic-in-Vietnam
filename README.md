@@ -15,9 +15,11 @@ Specifically, the dataset includes daily records of confirmed cases, deaths, and
 
 Before analysis, the dataset was thoroughly cleaned to ensure consistency and reliability. This included standardizing time formats, unifying inconsistent country names, removing irrelevant or incomplete data (e.g., subnational regions and outdated recovery figures), and aggregating data at the national level. Countries with insufficient data (fewer than 100 records) were also excluded.
 
+Further details on data description and data preprocessing can be found in the **report** (in Vietnamese), which can be found in this repository.
+
 ## Dashboard 
 
-The interactive Tableau dashboard is structured into three main sections: a header area for summary information and controls, and tưo lower sections featuring data visualizations.
+The interactive Tableau dashboard is structured into three main sections: a header area for summary information and controls, and two lower sections featuring data visualizations.
 
 1. **Header Area**:
    - Includes the dashboard title (left), an info button, time filter (by month), and options to download the dashboard as PDF or bitmap.
@@ -33,6 +35,8 @@ The interactive Tableau dashboard is structured into three main sections: a head
 
 These elements provide both high-level insights and detailed exploration capabilities through interactive filtering and time-based views.
 
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/.t.l.7247/viz/AnalyzeCovid-19PandemicGroup10_17124837672910/FinalDashboard)
+
 ## Design Considerations
 
 The dashboard was designed with a strong emphasis on usability, accessibility, and clarity, particularly for non-expert users. Key design principles include:
@@ -42,19 +46,19 @@ The dashboard was designed with a strong emphasis on usability, accessibility, a
 - **Layout**: Organized the dashboard with a clean and balanced layout that supports intuitive navigation and readability.
 - **Interactivity**: Prioritized interactive elements such as clickable summary boxes and filters to allow users to explore data dynamically.
 
-Further details on design choices can be found in the report, specifically in the section titled *“Đánh giá Dashboard”* (Dashboard Evaluation).
+Details of the design choices made can be found in the *"Đánh giá Dashboard"* (Dashboard Evaluation) section of the report.
 
 ## Analysis
 
 The project includes an in-depth analysis of the pandemic’s overall trends and changes over time across different regions of the world. It explores patterns in case surges, recoveries, and fatalities, and provides potential explanations for observed differences — such as the timing of outbreaks, government interventions, and healthcare system responses.
 
-All detailed analyses and insights are documented in the accompanying report (in Vietnamese), which can be found in this repository.
+All detailed analyses and insights are documented in the report in the section titled *"Phân tích Dashboard"* (Dashboard Analysis).
 
 ## User Feedback
 
 To evaluate the dashboard's usability and effectiveness, we conducted a user study with **20 participants**. Their feedback provided valuable insights that helped improve the design, interactivity, and clarity of the dashboard.
 
-Details of the feedback and adjustments made can be found in the *“Phản hồi ý kiến”* (User Feedback) section of the report.
+Details of the feedback and adjustments made can be found in the *"Phản hồi ý kiến"* (User Feedback) section of the report.
 
 ## Integration and Sharing
 
